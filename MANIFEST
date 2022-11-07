@@ -1,6 +1,7 @@
 Changes
 lib/Compass/Bearing.pm
 LICENSE
+CONTRIBUTING.md
 Makefile.PL
 MANIFEST
 README.md
