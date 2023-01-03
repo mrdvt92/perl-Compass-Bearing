@@ -6,7 +6,6 @@ WriteMakefile(
   ABSTRACT_FROM => 'lib/Compass/Bearing.pm',
   PREREQ_PM     => {
                     'Geo::Functions'    => 0.03, 
-                    'GD::Graph::Polar'  => 0.09, 
                     'Package::New'      => 0,
                    },
   'META_MERGE' => {
